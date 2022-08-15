@@ -1,4 +1,4 @@
-import { Alert, CircularProgress, Grid, Typography } from '@mui/material';
+import { Alert, CircularProgress, Grid } from '@mui/material';
 import { useContext, useEffect, useState } from 'react';
 import Layout from '../components/Layout'
 import ProductItem from '../components/ProductItem';
